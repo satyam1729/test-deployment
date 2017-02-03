@@ -1,3 +1,5 @@
+use this for testing anything related to backend
+deployed at:http://where2buy-test.azurewebsites.net/
 ---
 services: app-service\web, app-service
 platforms: python
