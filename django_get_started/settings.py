@@ -9,7 +9,7 @@ DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
 ALLOWED_HOSTS = (
-    'localhost','where2buy-test.azurewebsites.net',
+    'localhost','where2buy-test.azurewebsites.net','where2buy.azurewebsites.net'
 )
 
 ADMINS = (
